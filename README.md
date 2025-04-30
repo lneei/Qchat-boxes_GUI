@@ -1,1 +1,1 @@
-# Qchat-boxes_GUI
+Qt6环境运行即可
